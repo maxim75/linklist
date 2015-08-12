@@ -6,7 +6,10 @@
 
 * [geojson.io](http://geojson.io/) - web based GeoJSON viewer
 * [Overpass turbo](http://overpass-turbo.eu/) - data filtering tool for OpenStreetMap.
- 
+
+## JavaScript libraries
+
+ * [TurfJS](http://turfjs.org/) - functions to process geospatial data in JS
 
 
 
