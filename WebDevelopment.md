@@ -14,4 +14,5 @@
 ## Networking 
 
 * [dnschecker.org](https://dnschecker.org) - DNS propagation checker
+* [ipv6-test.com](http://ipv6-test.com/) - tests IPv6 connectivity and website for IPv6 support
 
