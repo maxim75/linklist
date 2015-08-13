@@ -16,3 +16,4 @@
 * [dnschecker.org](https://dnschecker.org) - DNS propagation checker
 * [ipv6-test.com](http://ipv6-test.com/) - tests IPv6 connectivity and website for IPv6 support
 
+[![Analytics](https://ga-beacon.appspot.com/UA-1286259-12/geolinks/README)](https://github.com/igrigorik/ga-beacon)
