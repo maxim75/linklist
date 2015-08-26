@@ -23,5 +23,12 @@
 * [ghostery](https://chrome.google.com/webstore/detail/ghostery/mlomiejdfkolichcflejclcbmpeaniij?hl=en) - displays list of external tracking, analytics tools added to webpage and allows to disable them.  
 * [screencastify](https://chrome.google.com/webstore/detail/screencastify-screen-vide/mmeijimgabbpbgpdklnllpncmdofkcpn?hl=en) - capture video from browser tab or any other application
 
+# Desktop applications
+
+## Windows
+
+* [Greenshot](http://getgreenshot.org/) - open-source application for taking screenshots and adding annotations. Great free replacement for SnagIt
+
 [![Analytics](https://ga-beacon.appspot.com/UA-1286259-12/geolinks/README)](https://github.com/igrigorik/ga-beacon)
+
 
