@@ -29,6 +29,10 @@
 
 * [Greenshot](http://getgreenshot.org/) - open-source application for taking screenshots and adding annotations. Great free replacement for SnagIt
 
+## MacOS
+
+* [Lightshot](https://app.prntscr.com/en/index.html) - cross-platform screenshot application. IMHO not as good as Greenshot, but works on MacOS
+
 [![Analytics](https://ga-beacon.appspot.com/UA-1286259-12/geolinks/README)](https://github.com/igrigorik/ga-beacon)
 
 
