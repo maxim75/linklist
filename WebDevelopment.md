@@ -33,6 +33,11 @@
 ## MacOS
 
 * [Lightshot](https://app.prntscr.com/en/index.html) - cross-platform screenshot application. IMHO not as good as Greenshot, but works on MacOS
+ 
+
+# JavaScript libraries
+
+* [Hammer.JS](http://hammerjs.github.io/) -  open-source library that can recognize gestures made by touch, mouse and pointerEvents
 
 [![Analytics](https://ga-beacon.appspot.com/UA-1286259-12/geolinks/README)](https://github.com/igrigorik/ga-beacon)
 
