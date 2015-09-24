@@ -16,6 +16,7 @@
 
 * [dnschecker.org](https://dnschecker.org) - DNS propagation checker
 * [ipv6-test.com](http://ipv6-test.com/) - tests IPv6 connectivity and website for IPv6 support
+* [ssllabs ssltest](https://www.ssllabs.com/ssltest/index.html) - tests SSL certificate configuration for given domain name
 
 # Browser tools
 
