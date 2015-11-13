@@ -11,6 +11,7 @@
 * [crossorigin.me](http://crossorigin.me) - proxy for making CORS JavaScript AJAX requests for resources without CORS HTTP header
 * [rawgit.com](https://rawgit.com/) - serves raw files directly from GitHub with proper Content-Type headers. Could be used for serving external JavaScript files for demos and CDN
 * [ngrok](https://ngrok.com/) - makes your localhost behind NAT accessible externally. Could be used to test local development website from mobile device or run external analysis tools such as Webpage test, Page speed, etc
+* [regex101](https://regex101.com/) - interactive tools for testing and debugging regular expressions
 
 ## Networking 
 
