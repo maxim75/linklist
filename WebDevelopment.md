@@ -39,10 +39,14 @@
 
 # JavaScript libraries
 
+## Geospatial
+
+* [Turf](http://turfjs.org/) - advanced geospatial analysis for browsers and node
+
 ## Mobile devices
 
 * [Hammer.JS](http://hammerjs.github.io/) -  open-source library that can recognize gestures made by touch, mouse and pointerEvents
-* [Turf](http://turfjs.org/) - advanced geospatial analysis for browsers and node
+
 
 [![Analytics](https://ga-beacon.appspot.com/UA-1286259-12/geolinks/README)](https://github.com/igrigorik/ga-beacon)
 
