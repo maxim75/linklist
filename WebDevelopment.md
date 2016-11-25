@@ -14,6 +14,7 @@
 * [regex101](https://regex101.com/) - interactive tools for testing and debugging regular expressions
 * [onlineocr.net](http://www.onlineocr.net/) - convert text from image (e.g. screetshot with text) into plain text
 * [mr-data-converter](https://shancarter.github.io/mr-data-converter/) - convert CSV, tab delimited and other data into JSON, Python objects, etc.
+* [realfavicongenerator](http://realfavicongenerator.net/) - generates favicons
 
 ## Networking 
 
